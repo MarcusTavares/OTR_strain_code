@@ -6,7 +6,7 @@
 # This code underlies the GNU General Public License, http://www.gnu.org/licenses/gpl-3.0.en.html
 # description: 
 # The code resolves the boundary-value problem of steady-state diffusion for a 2D unit cell of a cracked coating on a polymer films 
-# described in our paper. As an example, the the calculation below has imputs from MOX coatings of 20 nm shown in the paper.
+# described in our paper. As an example, the calculation below has inputs from MOX coatings of 20 nm thick.
 # ---------------------------------------------------------------------------------------------------------------------------------------
 
 from dolfin import *
